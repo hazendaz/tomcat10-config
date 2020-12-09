@@ -26,7 +26,7 @@
 
     <groupId>com.github.hazendaz.tomcat</groupId>
     <artifactId>tomcat10-config</artifactId>
-    <version>10.0.0-M11-SNAPSHOT</version>
+    <version>10.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>tomcat10-config</name>
@@ -56,7 +56,7 @@
     </distributionManagement>
 
     <properties>
-        <tomcat.version>10.0.0-M10</tomcat.version>
+        <tomcat.version>10.0.0</tomcat.version>
     </properties>
 
     <dependencies>
