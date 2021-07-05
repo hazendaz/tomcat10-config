@@ -56,7 +56,7 @@
     </distributionManagement>
 
     <properties>
-        <tomcat.version>10.0.7</tomcat.version>
+        <tomcat.version>10.0.8</tomcat.version>
     </properties>
 
     <dependencies>
