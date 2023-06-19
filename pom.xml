@@ -26,7 +26,7 @@
 
     <groupId>com.github.hazendaz.tomcat</groupId>
     <artifactId>tomcat10-config</artifactId>
-    <version>10.1.10</version>
+    <version>10.1.11-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>tomcat10-config</name>
@@ -45,7 +45,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/tomcat10-config.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/tomcat10-config.git</developerConnection>
         <url>https://github.com/hazendaz/tomcat10-config</url>
-        <tag>tomcat10-config-10.1.10</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <site>
