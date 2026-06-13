@@ -1,5 +1,10 @@
-Apache Tomcat10 Config
-----------------------
+# Apache Tomcat10 Config
+
+[![Java CI](https://github.com/hazendaz/tomcat10-config/actions/workflows/ci.yaml/badge.svg)](https://github.com/hazendaz/tomcat10-config/actions/workflows/ci.yaml)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.hazendaz.tomcat/tomcat10-config)](https://central.sonatype.com/artifact/com.github.hazendaz.tomcat/tomcat10-config)
+[![License](https://img.shields.io/github/license/hazendaz/tomcat10-config)](https://www.apache.org/licenses/LICENSE-2.0)
+
+![hazendaz](src/site/resources/images/hazendaz-banner.jpg)
 
 This project takes apache tomcat distribution from maven central, extracts configuration needed items and jars not otherwise released to maven central and repackages.
 
